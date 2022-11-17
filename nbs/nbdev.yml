@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_new"
+  site-url: "https://SIVARANGA.github.io/nbdev_new"
+  description: "latest testing on nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/SIVARANGA/nbdev_new"
